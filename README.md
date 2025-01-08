@@ -1,1 +1,1 @@
-LANDING PAGE
+(http://yourlink.com) LANDING PAGE
